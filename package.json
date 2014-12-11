@@ -1,0 +1,17 @@
+{
+  "name": "zero-eleven",
+  "version": "0.0.1",
+  "zero" : {
+    "dependencies" : {
+      "model" : "^0.0.1",
+      "request" : "^0.0.1",
+      "user" : "^0.0.1",
+      "respond" : "^0.0.1",
+      "cors" : "^0.0.1",
+      "chat" : "^0.0.1",
+      "rest" : "^0.0.1",
+      "bus" : "^0.0.1"
+    }
+  },
+  "main" : "index.js"
+}
